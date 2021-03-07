@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_7DRL-2021", "_7DRL-2021.csproj", "{178A0B69-1DAF-43C2-AF55-9FE56E5E0568}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDL2-CS.Core", "..\SDL2-CS\SDL2-CS.Core.csproj", "{38E6A9C7-D581-46B7-ABA7-73E3CAA8C480}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{178A0B69-1DAF-43C2-AF55-9FE56E5E0568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{178A0B69-1DAF-43C2-AF55-9FE56E5E0568}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{178A0B69-1DAF-43C2-AF55-9FE56E5E0568}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{178A0B69-1DAF-43C2-AF55-9FE56E5E0568}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38E6A9C7-D581-46B7-ABA7-73E3CAA8C480}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{38E6A9C7-D581-46B7-ABA7-73E3CAA8C480}.Debug|Any CPU.Build.0 = Debug|x64
+		{38E6A9C7-D581-46B7-ABA7-73E3CAA8C480}.Release|Any CPU.ActiveCfg = Release|x64
+		{38E6A9C7-D581-46B7-ABA7-73E3CAA8C480}.Release|Any CPU.Build.0 = Release|x64
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+bin/
+out/
+obj/
+/packages/
+riderModule.iml
+.idea
+/_ReSharper.Caches/
+*.sln.DotSettings.user
+*.dll
+*.so
+*.dylib
